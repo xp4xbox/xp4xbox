@@ -4,7 +4,7 @@ I am a student athlete who enjoys working on side projects using pretty much lan
 
 - 😊 My proudest project: [CupCore](https://github.com/Grub4K/CupCore-dist)
 - 🔭 I’m currently working on [Python Backdoor](https://github.com/xp4xbox/Python-Backdoor)
-- 🌱 I’m currently learning SQL, operating systems
+- 🌱 I’m currently learning SQL and operating systems
 - 💬 Ask me about anything related to my projects
 - 📫 Discord: nicman#6043
 - 😄 Pronouns: Him/He
