@@ -6,6 +6,6 @@ I am a student athlete who enjoys working on side projects using pretty much lan
 - 🔭 I’m currently working on [Python Backdoor](https://github.com/xp4xbox/Python-Backdoor)
 - 🌱 I’m currently learning SQL and operating systems
 - 💬 Ask me about anything related to my projects
-- 📫 Discord: `nicman#6043` and Email: `xp4xboxgithub@gmail.com`
+- 📫 Discord: `nicman#6043`, Email: `xp4xboxgithub@gmail.com`
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: Carleton University track and field/xc Raven 🏃 and biking enthusiast 🚵‍♂️
